@@ -1,0 +1,7 @@
+{
+  "first_name": "Satya",
+  "last_name": "Nadella",
+  "domain": "microsoft.com",
+  "deep_smtp_check": true,
+  "timeout_seconds": 10
+}

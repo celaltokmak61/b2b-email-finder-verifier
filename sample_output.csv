@@ -1,0 +1,3 @@
+input_first_name,input_last_name,input_domain,status,best_guess_email,is_deliverable,is_catch_all,confidence_score,mx_provider,primary_mx,smtp_response_code,smtp_message,verified_at
+Satya,Nadella,microsoft.com,VALID,satya.nadella@microsoft.com,True,False,98,Microsoft 365 / Exchange Online,microsoft-com.mail.protection.outlook.com,250,2.1.5 Recipient OK,2026-09-17T12:00:00.000Z
+Sam,Altman,openai.com,VALID,sam.altman@openai.com,True,False,95,Google Workspace,aspmx.l.google.com,250,2.1.5 Recipient OK,2026-09-17T12:01:00.000Z

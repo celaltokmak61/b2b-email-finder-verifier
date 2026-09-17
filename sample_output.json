@@ -1,0 +1,32 @@
+[
+  {
+    "input_first_name": "Satya",
+    "input_last_name": "Nadella",
+    "input_domain": "microsoft.com",
+    "status": "VALID",
+    "best_guess_email": "satya.nadella@microsoft.com",
+    "is_deliverable": true,
+    "is_catch_all": false,
+    "confidence_score": 98,
+    "mx_provider": "Microsoft 365 / Exchange Online",
+    "primary_mx": "microsoft-com.mail.protection.outlook.com",
+    "smtp_response_code": 250,
+    "smtp_message": "2.1.5 Recipient OK",
+    "verified_at": "2026-09-17T12:00:00.000Z"
+  },
+  {
+    "input_first_name": "Sam",
+    "input_last_name": "Altman",
+    "input_domain": "openai.com",
+    "status": "VALID",
+    "best_guess_email": "sam.altman@openai.com",
+    "is_deliverable": true,
+    "is_catch_all": false,
+    "confidence_score": 95,
+    "mx_provider": "Google Workspace",
+    "primary_mx": "aspmx.l.google.com",
+    "smtp_response_code": 250,
+    "smtp_message": "2.1.5 Recipient OK",
+    "verified_at": "2026-09-17T12:01:00.000Z"
+  }
+]
