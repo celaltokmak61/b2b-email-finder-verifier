@@ -11,14 +11,14 @@
 
 ## ⚡ Instant Cloud Execution (No Code / No Proxies Required)
 
-You do **not** need to install dependencies or deal with IP blocks, CAPTCHAs, or proxy infrastructure on your own machine. This tool is fully hosted and maintained as a production-grade cloud Actor on Apify:
+Run it in the browser. No install.
 
-👉 **[Run 'B2B Email Finder & Live SMTP/MX Verifier' on Apify Store](https://apify.com/haktelaren/b2b-email-finder-verifier)**
+👉 **[Run B2B Email Finder on Apify](https://apify.com/haktelaren/b2b-email-finder-verifier)** — **\.005 per result**
 
-* ✅ **Zero Setup:** Run directly from your web browser with a single click.
-* 🛡️ **Anti-Blocking:** Automatic residential proxy rotation and request fingerprinting.
-* 📊 **One-Click Export:** Download results in JSON, CSV, Excel, or connect live via Google Sheets.
-* 🔄 **Automation:** Schedule runs (hourly, daily, weekly) and receive Webhook notifications or trigger Zapier/Make flows.
+On Apify Cloud, outbound **port 25 is blocked**. A cloud run returns name permutations, MX hosts, and the mail provider (Microsoft 365, Google Workspace, and others). Live mailbox SMTP needs erifier_api_url on a server you control that can open port 25. This actor does not use residential proxies.
+
+* JSON, CSV, Excel, or Google Sheets export
+* Schedule runs and send results to Make, n8n, or Zapier
 
 ---
 
